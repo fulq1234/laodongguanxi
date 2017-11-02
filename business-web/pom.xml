@@ -4,6 +4,7 @@
   <groupId>com.love.mvc</groupId>
   <artifactId>myweb</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
   
   <properties>
   	<commons-lang.version>2.6</commons-lang.version>
@@ -133,6 +134,8 @@
                 <verbal>true</verbal>  
             </configuration>  
         </plugin>  
+        
+        
     </plugins>  
 </build>  
 </project>
